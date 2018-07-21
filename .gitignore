@@ -1,0 +1,15 @@
+# Created by https://www.gitignore.io/api/firebase
+
+### webstorm ###
+.idea
+
+### Firebase ###
+**/.firebaserc
+serviceAccountKey.json
+
+### nodejs ###
+
+**/node_modules/*
+package-lock.json
+
+# End of https://www.gitignore.io/api/firebase
